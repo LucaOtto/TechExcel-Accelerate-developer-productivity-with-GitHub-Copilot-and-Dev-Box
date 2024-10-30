@@ -1,0 +1,4 @@
+# CODEOWNERS file
+# This file is used to define code ownership for directories and files
+
+/src/Application/ @LucaOtto
